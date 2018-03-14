@@ -1,0 +1,18 @@
+{
+    "data": {
+        "timezone": "Asia\/Jakarta",
+        "offset": 7
+    },
+    "time": {
+        "date": "2018-03-14",
+        "time": "11:33:37",
+        "timezone": "Asia\/Jakarta",
+        "offset": 7
+    },
+    "location": {
+        "latitude": "-6.1744651000",
+        "longitude": "106.8227450000",
+        "address": "Special Capital Region of Jakarta, Indonesia"
+    },
+    "status": "OK"
+}
