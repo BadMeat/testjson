@@ -1,6 +1,5 @@
 {
-	"tanggalan":[
-		{"tanggal":"18 Maret 2018","deskripsi":"Hari Raya Nyepi"},
+	"tanggalan":[{"tanggal":"18 Maret 2018","deskripsi":"Hari Raya Nyepi"},
 		{"tanggal":"30 Maret 2018","deskripsi":"Wafat Isa Almasih"},
 		{"tanggal":"18 Maret 2018","deskripsi":"Hari Raya Nyepi"},
 		{"tanggal":"18 Maret 2018","deskripsi":"Hari Raya Nyepi"},
@@ -19,6 +18,4 @@
 		{"tanggal":"18 Maret 2018","deskripsi":"Hari Raya Nyepi"},
 		{"tanggal":"18 Maret 2018","deskripsi":"Hari Raya Nyepi"},
 		{"tanggal":"18 Maret 2018","deskripsi":"Hari Raya Nyepi"},
-		{"tanggal":"18 Maret 2018","deskripsi":"Hari Raya Nyepi"}
-	]
-}
+		{"tanggal":"18 Maret 2018","deskripsi":"Hari Raya Nyepi"}]}
