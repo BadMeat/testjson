@@ -1,0 +1,87 @@
+{
+	"tanggalan":[
+		{
+			"tanggal":"12",
+			"bulan":"3",
+			"tahun":"2018",
+			"deskripsi":"Hari Raya Nyepi"},
+		{
+			"tanggal":"30",
+			"bulan":"3",
+			"tahun":"2018",
+			"deskripsi":"Wafat Isa Almasih"},
+		{
+			"tanggal":"14",
+			"bulan":"4",
+			"tahun":"2018",
+			"deskripsi":"Isra Mi'raj Nabi Muhammad SAW 2018 (27 Rajab 1439H)"},
+		{
+			"tanggal":"1",
+			"bulan":"5",
+			"tahun":"2018",
+			"deskripsi":"Hari Buruh Internasional"},
+		{
+			"tanggal":"10",
+			"bulan":"5",
+			"tahun":"2018",
+			"deskripsi":"Kenaikan Isa Almasih"},
+		{
+			"tanggal":"29",
+			"bulan":"5",
+			"tahun":"2018",
+			"deskripsi":"Hari Raya Waisak 2018"},
+		{
+			"tanggal":"1",
+			"bulan":"6",
+			"tahun":"2018",
+			"deskripsi":"Hari Kesaktian Pancasila"},
+		{
+			"tanggal":"13",
+			"bulan":"6",
+			"tahun":"2018",
+			"deskripsi":"Cuti Bersama Lebaran"},
+		{
+			"tanggal":"14",
+			"bulan":"6",
+			"tahun":"2018",
+			"deskripsi":"Cuti Bersama Lebaran"},
+		{
+			"tanggal":"15",
+			"bulan":"6",
+			"tahun":"2018",
+			"deskripsi":"Hari Raya Idul Fitri 1439 Hijriyah"},
+		{
+			"tanggal":"16",
+			"bulan":"6",
+			"tahun":"2018",
+			"deskripsi":"Hari Raya Idul Fitri 1439 Hijriyah"},	
+		{
+			"tanggal":"17",
+			"bulan":"8",
+			"tahun":"2018",
+			"deskripsi":"Hari Kemerdekaan RI"},
+		{
+			"tanggal":"22",
+			"bulan":"8",
+			"tahun":"2018",
+			"deskripsi":"Hari Raya Idul Adha 1439 Hijriyah"},
+		{
+			"tanggal":"11",
+			"bulan":"9",
+			"tahun":"2018",
+			"deskripsi":"Tahun Baru Islam (Hijriyah)"},
+		{
+			"tanggal":"20",
+			"bulan":"11",
+			"tahun":"2018",
+			"deskripsi":"Maulid Nabi Muhammad SAW"},
+		{
+			"tanggal":"24",
+			"bulan":"12",
+			"tahun":"2018",
+			"deskripsi":"Cuti Bersama Hari Natal"},
+		{
+			"tanggal":"25",
+			"bulan":"12",
+			"tahun":"2018",
+			"deskripsi":"Hari Raya Natal 2018"}]}
